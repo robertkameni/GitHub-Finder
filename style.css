@@ -1,0 +1,46 @@
+h5 {
+    font-weight: bold;
+    color: rgb(219, 153, 10);
+    font-size: 1.8rem;
+}
+
+.container {
+    background: linear-gradient(to left, #005C97, #363795);
+}
+
+.btn-profile {
+    margin-bottom: 10px;
+    border-radius: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    background: rgb(24, 121, 212);
+    color: white;
+}
+
+.badge {
+    font-size: 15px;
+    margin: 4px;
+}
+
+.list-group-item {
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+
+}
+
+.lead {
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.page-heading {
+    font-weight: bold;
+    color: rgb(229, 245, 9);
+}
+
+#repos {
+    font-size: 25px;
+    font-weight: bold;
+}
